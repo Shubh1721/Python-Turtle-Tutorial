@@ -11,3 +11,16 @@
 [![Python-Turtle-Lec-9](https://img.youtube.com/vi/Bgx6ynareQU/0.jpg)](https://www.youtube.com/watch?v=Bgx6ynareQU)
 [![Python-Turtle-Lec-10](https://img.youtube.com/vi/jcVSzB2qeMc/0.jpg)](https://www.youtube.com/watch?v=jcVSzB2qeMc)
 [![Python-Turtle-Lec-11](https://img.youtube.com/vi/Kf0-watyyGM/0.jpg)](https://www.youtube.com/watch?v=Kf0-watyyGM)
+[![Python-Turtle-Lec-12](https://img.youtube.com/vi/Klbwp3fP14g/0.jpg)](https://www.youtube.com/watch?v=Klbwp3fP14g)
+[![Python-Turtle-Lec-13](https://img.youtube.com/vi/xWrMEcE_cEc/0.jpg)](https://www.youtube.com/watch?v=xWrMEcE_cEc)
+[![Python-Turtle-Lec-14](https://img.youtube.com/vi/SlaqrXQA5aY/0.jpg)](https://www.youtube.com/watch?v=SlaqrXQA5aY)
+
+[![Python-Turtle-Lec-15](https://img.youtube.com/vi/6n--vYB5CiQ/0.jpg)](https://www.youtube.com/watch?v=6n--vYB5CiQ)
+[![Python-Turtle-Lec-16](https://img.youtube.com/vi/gTfrcSus1kc/0.jpg)](https://www.youtube.com/watch?v=gTfrcSus1kc)
+[![Python-Turtle-Lec-17](https://img.youtube.com/vi/4YWTqB5tyNw/0.jpg)](https://www.youtube.com/watch?v=4YWTqB5tyNw)
+[![Python-Turtle-Lec-18](https://img.youtube.com/vi/qWeFSTCT9IM/0.jpg)](https://www.youtube.com/watch?v=qWeFSTCT9IM)
+[![Python-Turtle-Lec-19](https://img.youtube.com/vi/XjPTVF5YUtk/0.jpg)](https://www.youtube.com/watch?v=XjPTVF5YUtk)
+[![Python-Turtle-Lec-20](https://img.youtube.com/vi/eGMmQriNMF4/0.jpg)](https://www.youtube.com/watch?v=eGMmQriNMF4)
+
+
+
